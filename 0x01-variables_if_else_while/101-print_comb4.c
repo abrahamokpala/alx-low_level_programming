@@ -2,8 +2,9 @@
 
 /**
  * main - print all 3 digit combinations
- * Return 0 (Success)
+ * Return: Always 0 (Success)
  */
+
 int main(void)
 {
 	int one;
